@@ -1,0 +1,15 @@
+Status	data/SRR941816.sorted.bam	data/SRR941817.sorted.bam	data/SRR941818.sorted.bam	data/SRR941819.sorted.bam
+Assigned	7285693	7986988	1406728	4994724
+Unassigned_Unmapped	512972	505208	65077	229682
+Unassigned_Read_Type	0	0	0	0
+Unassigned_Singleton	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	1330267	1682092	312464	1202452
+Unassigned_Secondary	0	0	0	0
+Unassigned_NonSplit	0	0	0	0
+Unassigned_NoFeatures	608036	621007	96913	357412
+Unassigned_Overlapping_Length	0	0	0	0
+Unassigned_Ambiguity	36867	37399	4361	16000
