@@ -7,6 +7,8 @@ This repository contains a jupyter notebook where the workflow is described and 
 
 We will explore how RNA expression levels change as yeast undergo fermentation to make bread rise. There are two replicates of RNA-seq data from yeast before and during fermentation, and our goal is to find out if the yeast express different genes during fermentation than they do under normal growth.
 
+![Meme](img/baking_bread.jpg)
+
 ## Data
 
 This lab work uses the following data:
