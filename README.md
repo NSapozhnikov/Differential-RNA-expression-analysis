@@ -18,6 +18,10 @@ This lab work uses the following data:
 - [reference genome file](http://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.fna.gz)
 - [annotation file](http://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.gff.gz)
 
+## Key results
+
+Differential expression was obtained for RNA-seq data. Following heatmap with the results was plotted
+
 ## Usage
 
 To reproduce the enviroment use:
