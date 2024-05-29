@@ -22,6 +22,8 @@ This lab work uses the following data:
 
 Differential expression was obtained for RNA-seq data. Following heatmap with the results was plotted
 
+![heatmap](output.pdf)
+
 ## Usage
 
 To reproduce the enviroment use:
